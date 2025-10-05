@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "frontend"
+		},
+		{
+			"path": "services/auth_service"
+		},
+		{
+			"path": "services/projects_service"
+		},
+		{
+			"path": "services/time_service"
+		}
+	],
+	"settings": {}
+}
